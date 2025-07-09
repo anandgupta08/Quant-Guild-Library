@@ -8,7 +8,10 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 
 ### 📅 2025 Video Lectures (Newest First)
 
-- **28.** [(Latest) Gambler's Ruin Problem in Quant Trading](https://youtu.be/YNvhjSr_nz0)  
+**Latest:**
+- **28.** [(Latest) Gambler's Ruin Problem in Quant Trading](https://youtu.be/YNvhjSr_nz0)
+
+**Previous:**
 - **27.** [A Quant Derives the Karhunen-Loève Expansion of the Brownian Bridge in Continuous-Time](https://youtu.be/Nm0XXPhpEx8)  
 - **26.** [Is Quant Trading Gambling - Roulette, Poker, and Trading](https://youtu.be/fI3UHYD389g)  
 - **25.** [How to Simulate Fractional Brownian Motion (fbM) via Davies-Harte](https://youtu.be/qQYgbIYz9i0)  
