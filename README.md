@@ -9,7 +9,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **29.** [(Latest) Itô's Lemma Clearly Explained](https://youtu.be/TgBzqdN24fo)
+- **29.** [(Latest) Ito's Lemma Clearly and Visually Explained](https://youtu.be/TgBzqdN24fo)
 
 **Previous:**
 - **28.** [(Latest) Gambler's Ruin Problem in Quant Trading](https://youtu.be/YNvhjSr_nz0)
