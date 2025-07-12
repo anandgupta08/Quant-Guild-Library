@@ -12,7 +12,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 - **29.** [(Latest) Ito's Lemma Clearly and Visually Explained](https://youtu.be/TgBzqdN24fo)
 
 **Previous:**
-- **28.** [(Latest) Gambler's Ruin Problem in Quant Trading](https://youtu.be/YNvhjSr_nz0)
+- **28.** [Gambler's Ruin Problem in Quant Trading](https://youtu.be/YNvhjSr_nz0)
 - **27.** [A Quant Derives the Karhunen-Loève Expansion of the Brownian Bridge in Continuous-Time](https://youtu.be/Nm0XXPhpEx8)  
 - **26.** [Is Quant Trading Gambling - Roulette, Poker, and Trading](https://youtu.be/fI3UHYD389g)  
 - **25.** [How to Simulate Fractional Brownian Motion (fbM) via Davies-Harte](https://youtu.be/qQYgbIYz9i0)  
