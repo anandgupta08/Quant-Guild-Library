@@ -9,7 +9,8 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **29.** [(Latest) Ito's Lemma Clearly and Visually Explained](https://youtu.be/TgBzqdN24fo)
+- **30.** [(Latest 07/18/25) Trading with the Black-Scholes Implied Volatility Surface](https://youtu.be/YH0tWpBaKGs)
+- **29.** [(Latest 07/15/25) Ito's Lemma Clearly and Visually Explained](https://youtu.be/TgBzqdN24fo)
 
 **Previous:**
 - **28.** [Gambler's Ruin Problem in Quant Trading](https://youtu.be/YNvhjSr_nz0)
