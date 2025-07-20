@@ -9,10 +9,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **30.** [(Latest 07/18/25) Trading with the Black-Scholes Implied Volatility Surface](https://youtu.be/YH0tWpBaKGs)
-- **29.** [(Latest 07/15/25) Ito's Lemma Clearly and Visually Explained](https://youtu.be/TgBzqdN24fo)
+- **31.** [(Latest 07/22/25) Ito Integration Clearly and Visually Explained](https://youtu.be/dUvZ8m3QpeI)
 
 **Previous:**
+- **30.** [Trading with the Black-Scholes Implied Volatility Surface](https://youtu.be/YH0tWpBaKGs)
+- **29.** [Ito's Lemma Clearly and Visually Explained](https://youtu.be/TgBzqdN24fo)
 - **28.** [Gambler's Ruin Problem in Quant Trading](https://youtu.be/YNvhjSr_nz0)
 - **27.** [A Quant Derives the Karhunen-Loève Expansion of the Brownian Bridge in Continuous-Time](https://youtu.be/Nm0XXPhpEx8)  
 - **26.** [Is Quant Trading Gambling - Roulette, Poker, and Trading](https://youtu.be/fI3UHYD389g)  
