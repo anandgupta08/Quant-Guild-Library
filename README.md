@@ -9,10 +9,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **32.** [(Latest 07/25/25) How to Price Exotic Options](https://youtu.be/hsot26myYYM)
-- **31.** [(Latest 07/22/25) Ito Integration Clearly and Visually Explained](https://youtu.be/dUvZ8m3QpeI)
+- **33.** [Why Monte Carlo Simulation Works](https://youtu.be/-4sf43SLL3A)
 
 **Previous:**
+- **32.** [How to Price Exotic Options](https://youtu.be/hsot26myYYM)
+- **31.** [Ito Integration Clearly and Visually Explained](https://youtu.be/dUvZ8m3QpeI)
 - **30.** [Trading with the Black-Scholes Implied Volatility Surface](https://youtu.be/YH0tWpBaKGs)
 - **29.** [Ito's Lemma Clearly and Visually Explained](https://youtu.be/TgBzqdN24fo)
 - **28.** [Gambler's Ruin Problem in Quant Trading](https://youtu.be/YNvhjSr_nz0)
