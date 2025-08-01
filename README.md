@@ -2,6 +2,8 @@
 
 Welcome to the **Quant Guild Library** — a curated collection of Jupyter Notebooks and lecture videos diving deep into quantitative finance. Topics range from stochastic calculus and options pricing to trading strategies and AI in finance.
 
+[🚀 Master Quantitative Skills with Quant Guild](https://quantguild.com)
+
 > Each folder contains a Jupyter Notebook and a corresponding lecture video by Roman Paolucci.
 
 ---
@@ -9,6 +11,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
+- **34.** [How to Trade with an Edge](https://youtu.be/NlqpDB2BhxE)
 - **33.** [Why Monte Carlo Simulation Works](https://youtu.be/-4sf43SLL3A)
 
 **Previous:**
