@@ -4,6 +4,8 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 
 [🚀 Master Quantitative Skills with Quant Guild](https://quantguild.com)
 
+[📚 Take Live Classes with Roman on Quant Guild](https://quantguild.com/live-classes)
+
 > Each folder contains a Jupyter Notebook and a corresponding lecture video by Roman Paolucci.
 
 ---
