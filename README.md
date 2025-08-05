@@ -13,10 +13,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **34.** [How to Trade with an Edge](https://youtu.be/NlqpDB2BhxE)
-- **33.** [Why Monte Carlo Simulation Works](https://youtu.be/-4sf43SLL3A)
+- **35.** [What Does AI Actually Learn](https://youtu.be/tX7b2KT63WQ)
 
 **Previous:**
+- **34.** [How to Trade with an Edge](https://youtu.be/NlqpDB2BhxE)
+- **33.** [Why Monte Carlo Simulation Works](https://youtu.be/-4sf43SLL3A)
 - **32.** [How to Price Exotic Options](https://youtu.be/hsot26myYYM)
 - **31.** [Ito Integration Clearly and Visually Explained](https://youtu.be/dUvZ8m3QpeI)
 - **30.** [Trading with the Black-Scholes Implied Volatility Surface](https://youtu.be/YH0tWpBaKGs)
