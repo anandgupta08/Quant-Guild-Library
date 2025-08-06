@@ -13,6 +13,7 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
+- **36.** [How to Trade with the Kelly Criterion](https://youtu.be/7tvW3NvRnPk)
 - **35.** [What Does AI Actually Learn](https://youtu.be/tX7b2KT63WQ)
 
 **Previous:**
