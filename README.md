@@ -13,10 +13,11 @@ Welcome to the **Quant Guild Library** — a curated collection of Jupyter Noteb
 ### 📅 2025 Video Lectures (Newest First)
 
 **Latest:**
-- **36.** [How to Trade with the Kelly Criterion](https://youtu.be/7tvW3NvRnPk)
-- **35.** [What Does AI Actually Learn](https://youtu.be/tX7b2KT63WQ)
+- **37.** [Stochastic Differential Equations for Quant Finance](https://youtu.be/qDAeSC40ZJE)
 
 **Previous:**
+- **36.** [How to Trade with the Kelly Criterion](https://youtu.be/7tvW3NvRnPk)
+- **35.** [What Does AI Actually Learn](https://youtu.be/tX7b2KT63WQ)
 - **34.** [How to Trade with an Edge](https://youtu.be/NlqpDB2BhxE)
 - **33.** [Why Monte Carlo Simulation Works](https://youtu.be/-4sf43SLL3A)
 - **32.** [How to Price Exotic Options](https://youtu.be/hsot26myYYM)
